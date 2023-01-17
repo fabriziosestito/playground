@@ -1,1 +1,1 @@
-(this.webpackJsonp=this.webpackJsonp||[]).push([[70],{51:function(n,t,s){"use strict";s.r(t),t.default='let x = [1, 2, 3];\n\nprint("x[1] should be 2:");\nprint(x[1]);\n\nx[1] = 5;\n\nprint(`x[1] should be 5: ${x[1]}`);\n'}}]);
+(this.webpackJsonp=this.webpackJsonp||[]).push([[70],{51:function(n,s,t){"use strict";t.r(s),s.default="//! This script contains a single assignment statement.\n\nlet x = 78;\n\nprint(`x should be 78: ${x}`);\n"}}]);
